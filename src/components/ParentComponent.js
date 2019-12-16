@@ -32,3 +32,6 @@ class ParentComponent extends React.Component {
 }
  
 export default ParentComponent;
+
+
+//not the same as lessons 
